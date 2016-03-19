@@ -1,0 +1,10 @@
+C:\Users\Daisuke\Source\ReposAme\Teacher\Teacher\bin\Debug\Teacher.exe.config
+C:\Users\Daisuke\Source\ReposAme\Teacher\Teacher\bin\Debug\Teacher.exe
+C:\Users\Daisuke\Source\ReposAme\Teacher\Teacher\bin\Debug\Teacher.pdb
+C:\Users\Daisuke\Source\ReposAme\Teacher\Teacher\obj\Debug\Teacher.csprojResolveAssemblyReference.cache
+C:\Users\Daisuke\Source\ReposAme\Teacher\Teacher\obj\Debug\Teacher.Form1.resources
+C:\Users\Daisuke\Source\ReposAme\Teacher\Teacher\obj\Debug\Teacher.MenuButton.resources
+C:\Users\Daisuke\Source\ReposAme\Teacher\Teacher\obj\Debug\Teacher.Properties.Resources.resources
+C:\Users\Daisuke\Source\ReposAme\Teacher\Teacher\obj\Debug\Teacher.csproj.GenerateResource.Cache
+C:\Users\Daisuke\Source\ReposAme\Teacher\Teacher\obj\Debug\Teacher.exe
+C:\Users\Daisuke\Source\ReposAme\Teacher\Teacher\obj\Debug\Teacher.pdb
